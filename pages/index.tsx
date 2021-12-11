@@ -13,7 +13,6 @@ function Index() {
         <link rel="manifest" href="/site.webmanifest" />
       </Head>
       <div id="main">
-        <div id="bottomFadeOut"></div>
         <div id="headlineContainer">
           <div id="headline">
             <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</h1>
