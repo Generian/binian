@@ -2,10 +2,12 @@ function Index() {
   return (
     <div id="main">
       <div id="bottomFadeOut"></div>
-      <div id="container">
+      <div id="headlineContainer">
         <div id="headline">
           <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</h1>
         </div>
+      </div>
+      <div id="container">
         <div id="date">
           <span>Berlin - 12. Oktober 2021</span>
         </div>
